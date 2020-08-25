@@ -1,0 +1,2 @@
+# tellurium
+cursor theme
